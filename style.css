@@ -1,0 +1,144 @@
+.header{
+	width: 100%;
+	height: 35px;
+	background-color: darkgray;
+	border-radius: 0 0 15px 15px;
+}
+body{
+	margin: 0;
+	background: linear-gradient(lavender, lightcyan)
+}
+.logo{
+	float: left;
+	color: white;
+	margin-left: 39px;
+	font-size: 20px;
+	margin-top: 5px;
+	transition: 1s;
+	transition-duration: 0.5s;
+}	
+.link{
+	float: right;
+	color: white;
+	margin-right: 39px;
+	font-size: 20px;
+	margin-top: 5px;
+	transition-duration: 0.5s;
+	transition: 1s;
+}
+.ilon{
+	margin-top: 40px;
+	float: left;
+}
+.text{
+	color: white;
+	background-color: black;
+	width: 70%;
+	float: right;
+	margin-top: 40px;
+	border-radius: 130px 0 0 130px;
+	text-align: center;
+	transition: 1s;
+	transition-duration: 0.5s;
+}
+.boximg{
+	width: 100%;
+	transition: 1s;
+	transition-duration: 1s;
+}
+.box{
+	width: 150px;
+	margin-left: 10%;
+}
+.texts{
+	color: white;
+	background-color: black;
+	width: 70%;
+	float: right;
+	margin-top: 40px;
+	border-radius: 130px 0 0 130px;
+	text-align: center;
+}
+.dilon{
+	margin-top: 150px;
+	float: left;
+	width: 10%;
+}
+.box1{
+	width: 150px;
+	margin-left: 10%;
+	height: 90px;
+}
+.box2{
+	width: 150px;
+	margin-left: 10%;
+}
+.steve{
+	float: right;
+
+}
+.texts1{
+	color: white;
+	background-color: black;
+	width: 65%;
+	float: left;
+	margin-top: 40px;
+	border-radius: 0 130px 130px 0;
+	text-align: center;
+}
+.link:hover{
+	float: right;
+	color: deepskyblue;
+	margin-right: 39px;
+	font-size: 20px;
+	margin-top: 5px;
+	text-shadow: 0 0 5px mediumblue;
+	font-size: 21px;
+}
+.logo:hover{
+	float: left;
+	color:  deepskyblue;
+	margin-left: 39px;
+	font-size: 21px;
+	margin-top: 5px;
+	text-shadow: 0 0 10px mediumblue;
+}
+p{
+	transition: 1s;
+	transition-duration: 0.5s;
+}
+p:hover{
+	text-shadow: 5px 5px 5px white;
+}
+h2{
+	transition: 1s;
+	transition-duration: 0.5s;
+}
+h2:hover{
+	text-shadow: 7px 0 10px lightcyan;
+}
+.boximg:hover{
+	width: 98%;
+
+}
+.apple{
+	transition: 1s;
+	transition-duration: 1s;
+}
+.apple:hover{
+	transform: rotateX(180deg);
+}
+.apple1{
+	transition: 1s;
+	transition-duration: 1s;
+}
+.apple1:hover{
+	transform: rotateZ(360deg);
+}
+.apple2{
+	transition: 1s;
+	transition-duration: 1s;
+}
+.apple2:hover{
+	transform: rotateY(180deg);
+}
